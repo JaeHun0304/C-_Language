@@ -1,3 +1,7 @@
 # compiled source #
 ###################
 *.out
+
+# temporary file created by vim #
+#################################
+*.swp
